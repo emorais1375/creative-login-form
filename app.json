@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "creative-login-form",
+    "slug": "snack-57f2659b-8c3e-42a4-a481-1094884fd89e",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "A cool login form template to be used for any website and app. Made by Colorlib.\nFont: https://colorlib.com/wp/template/creative-login-form/"
+  }
+}
